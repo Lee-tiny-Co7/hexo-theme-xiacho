@@ -4,10 +4,11 @@ html,body{
       }
 .a {
 	text-decoration:none;
-	display:inline-block;
-	margin:0px 10px;
+	font-size:20px;
+	color:black;
 }
 .link{
 	text-align:center;
-	font-size:20px;
+	display:inline-block;
+	margin:0px 10px;
 }
