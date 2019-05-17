@@ -2,12 +2,12 @@ html,body{
 	margin:0px; 
 	padding:0px;
       }
-#links {
+#a {
+	text-align:center;
 	text-decoration:none;
 	font-size:30px;
 	color:black;
-}
-.link{
-	text-align:center;
 	margin:0px 10px;
 }
+/*.link{
+}*/
