@@ -1,5 +1,17 @@
-.links{text-align:center;margin:100px auto auto auto;max-width:500px;padding:0 20px;
-}.link{text-align:center;font-size:18px;font-family: Comic Sans MS, Comic Sans, cursive;
-}.a{text-decoration:none;color:#d8d8d8;margin:5px;background-color:#606060;
-line-height:50px;
+.links{
+    text-align:center;
+    margin:100px auto auto auto;
+    max-width:500px;
+    padding:0 20px;
+}
+.link{
+    text-align:center;
+    font-size:18px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}.a{
+    text-decoration:none;
+    color:#d8d8d8;
+    margin:5px;
+    background-color:#606060;
+    line-height:50px;
 }
