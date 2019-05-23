@@ -30,12 +30,18 @@ div.live p{
 .links{
     text-align:center;margin:100px auto auto auto;
     max-width:500px;padding:0 20px;margin-top:50px;
-    background:url(http://d.5857.com/dahai_141107/003.jpg);}/*
+    background:url(http://d.5857.com/dahai_141107/003.jpg);color:#EDECEF}/*
 .links {text-align: center;margin: 100px auto auto auto;
     max-width: 500px;
     padding: 0 20px;margin-top: 200px;*/
+img {
+    background-color:#D99FD1;
+    border:1px solid black;
+    border-radius:200px;
+}
 .link{
     text-align:center;font-family: Comic Sans MS, Comic Sans, cursive;
-    font-size:18px;}.a{text-decoration:none;color:#d8d8d8;
+    font-size:18px;}
+.a{text-decoration:none;color:#d8d8d8;
     margin:5px;background-color:#606060;
     line-height:50px;}
