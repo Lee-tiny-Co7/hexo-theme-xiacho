@@ -49,19 +49,19 @@ img {
     margin:5px;background-color:#D99FD1;/*background-color:#606060;*/
     line-height:50px;
 }
-.Contactme{/*padding-left:460px;*/font-size:20px;
-    color:white;
+.contactMe{margin-left:467px;
+font-size:15px;
+color:white;
+padding:10px;}
+.Contactme{
     display:inline-block;
     text-align:right;
     width:40%;
-    padding:10px;
+    padding:5px;
     margin-top:10px;
 }
-/*.select{width:405px;
-height:30px;}*/
 .contactme{
-    width:330px;
-    height:30px;
     display:inline-block;
     text-align:left;
+    width:48%;
 }
