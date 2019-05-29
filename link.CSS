@@ -42,7 +42,7 @@ img {
     border-radius:30px;
 }
 .link{
-    text-align:center;font-family: Comic Sans MS, Comic Sans, cursive;
+    text-align:center;font-family:Georgia;/*font-family:Arial*/;
     font-size:18px;}
 .a{text-decoration:none;color:black;
     margin:5px;background-color:#D99FD1;/*background-color:#606060;*/
