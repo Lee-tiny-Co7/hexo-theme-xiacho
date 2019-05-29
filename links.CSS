@@ -50,10 +50,15 @@ img {
     line-height:50px;
 }
 .Contactme{
-    padding-left:467px;
-    color:white;
+    font-size:20px;
+    margin-bottom:60px;
 }
 .contactme{
-    width:400px;
-    height:200px;
+    margin-bottom:3px;
+    float:none;
+    font-weight:700;
+    display: block;
+    max-width: 700px;
+    padding: 0 20px;
+    margin:0 auto;
 }
