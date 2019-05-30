@@ -59,7 +59,7 @@ padding:10px;
 line-height:1.9;
 }
 #cla{
-background-color:#D99FD1;
-border:1px solid black;
+/*background-color:#D99FD1;*/
+border:1px solid #D99FD1;
 border-radius:5px;
 }
