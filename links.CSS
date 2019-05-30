@@ -49,3 +49,14 @@ img {
     margin:5px;background-color:#D99FD1;/*background-color:#606060;*/
     line-height:50px;
 }
+.cla{width:75%;
+position:fixed;
+left:20%;
+margin-left:-10%;
+color:white;
+font-size:18px;
+margin:inherit;
+padding:10px;
+line-height:1.9;
+
+}
