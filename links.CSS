@@ -49,16 +49,3 @@ img {
     margin:5px;background-color:#D99FD1;/*background-color:#606060;*/
     line-height:50px;
 }
-.Contactme{
-    font-size:20px;
-    margin-bottom:60px;
-}
-.contactme{
-    margin-bottom:3px;
-    float:none;
-    font-weight:700;
-    display: block;
-    max-width: 700px;
-    padding: 0 20px;
-    margin:0 auto;
-}
